@@ -1,5 +1,5 @@
 public class TaskList {
-    private class Node {
+    private static class Node {
         Task task;
         Node next;
 
